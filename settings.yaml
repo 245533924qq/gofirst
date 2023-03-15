@@ -8,7 +8,7 @@ mysql:
 
 logger:
   level: info
-  prefix: "[gvb]"  # 前缀
+  prefix: '[gvb]'  # 前缀
   director: log    # 存放目录
   show_line: true   # 显示行号
   log_in_console: true  # 显示路径
